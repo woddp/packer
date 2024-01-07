@@ -7,3 +7,5 @@
 - 白色主题
 ## vidz_builder_setup.exe.zip
 - 打包工具
+
+[下载页面](https://github.com/woddp/packer/releases)
